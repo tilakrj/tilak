@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Contace me @ 8792441859
+Contace me @ +91 8792 441 859
 
-Facebook: [Tilak Raj](https://facecbook.com/traj14) 
+Facebook: [Tilak Raj](https://www.facebook.com/traj14) 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
